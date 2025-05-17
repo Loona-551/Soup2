@@ -1,0 +1,5 @@
+Sistema: Windows 10 10.0.19045
+Nodo: DESKTOP-HB2TJV0
+Procesador: Intel64 Family 6 Model 167 Stepping 1, GenuineIntel
+IP Pública: 83.58.13.32
+Ubicación aproximada: http://www.google.com/maps/place/39.8581,-4.0226
